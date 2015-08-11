@@ -1,8 +1,8 @@
 # jqm-tree
 jqm-tree is a jquery mobile tree plugin
-jqm-treeÊÇÒ»¸öjquery mobileµÄÊ÷ĞÎ²å¼ş
+jqm-tree æ˜¯ä¸€ä¸ªjquery mobileçš„æ ‘å½¢æ’ä»¶
 
-example:
+example(ä½¿ç”¨è¯´æ˜)
 $("#tree").jqmtree({
         title : 'Items',
         collapsed: false,
